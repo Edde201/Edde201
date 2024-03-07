@@ -10,7 +10,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
@@ -43,7 +42,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
@@ -61,7 +59,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
@@ -82,7 +79,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
@@ -103,7 +99,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
@@ -124,7 +119,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
@@ -142,7 +136,6 @@
 			</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>
