@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red;">Hi 👋, I'm Edde20</h1>
+<h1 align="center">Hi 👋, I'm Edde20</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 
